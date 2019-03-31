@@ -4,7 +4,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "pxt-bitbooster": "workspace:64adf6f0-14db-4762-6e66-7fb6b639a50b"
     },
     "files": [
         "README.md",
@@ -13,6 +14,5 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": false,
-    "additionalFilePaths": []
+    "public": false
 }
