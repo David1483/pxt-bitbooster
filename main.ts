@@ -10,6 +10,7 @@ enum MotorSpeed {
 /**
  * HBridge
  */
+//% color="#AA278D"
 namespace Bitbooster {
     //% block="Speed"
     export function Speed() {
